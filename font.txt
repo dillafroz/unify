@@ -1,0 +1,10 @@
+ralway link
+1.@import url('https://fonts.googleapis.com/css?family=Raleway:300i,400,600');
+
+2.ralway font
+font-family: 'Raleway', sans-serif;
+Lato link
+1.@import url('https://fonts.googleapis.com/css?family=Lato:300i,400,700i');
+
+2.Lato font
+font-family: 'Lato', sans-serif;
